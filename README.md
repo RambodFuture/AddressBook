@@ -1,1 +1,1 @@
-# AddressBook
+This is the AddressBook, it is a small project I did in one of my CMPT classes, it has a menu of the features available for the user including appending contacts, removing contacts by either the index or full name, finding and editing the information, list of the contacts, printing the names on a file, merging and many other features. This is a basic  address book in C, using dynamic memory allocation. 
